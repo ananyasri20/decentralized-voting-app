@@ -4,6 +4,9 @@ A modern, on-chain voting application built on **Ethereum** (Sepolia testnet) wi
 
 ---
 
+**Live Demo**
+https://de-vote-dapp.netlify.app/
+
 ## 🎯 Features
 
 - **MetaMask Integration** - Connect your wallet securely
